@@ -12,7 +12,7 @@ yarn-debug.log*
 pnpm-debug.log*
 
 # Uploads or user-generated content (optional)
-uploads/
+
 
 # Coverage reports
 coverage/
